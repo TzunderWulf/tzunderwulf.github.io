@@ -150,6 +150,14 @@ a {
 
 .title {
   font-size: 22px;
+
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 18px;
+
+  margin-bottom: 5px;
 }
 
 .profile-picture {
@@ -219,6 +227,11 @@ a {
   transition: background-color .5s;
 
   opacity: 50%;
+}
+
+.mid-image {
+  width: 200px;
+  height: auto;
 }
 
 .overlay:hover {
